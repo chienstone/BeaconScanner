@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BeaconScanner</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- main -->
+    <string name="button1">start</string>
+    <string name="button2">setRssi</string>
+    <string name="button3">stop</string>
+
+    <!--process-->
+</resources>
